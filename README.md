@@ -87,7 +87,8 @@ QUAN TRỌNG : "KẾT QUẢ XUẤT DƯỚI DẠNG MARKDOWN"
 ```
 
 ## Phần 2 : Kết quả nhận về của AI
-```yaml
+
+
 # Kế Hoạch Ngân Sách Cá Nhân & Trả Nợ (Thu Nhập Freelance)
 
 ## Giả định đầu vào
@@ -219,4 +220,4 @@ QUAN TRỌNG : "KẾT QUẢ XUẤT DƯỚI DẠNG MARKDOWN"
 1. **Rà soát và cắt giảm ngay ít nhất 1.000.000 – 1.700.000 VND trong nhóm chi phí cố định 3.500.000 VND** bằng cách tối ưu tiền thuê nhà, hóa đơn tiện ích hoặc tạm dừng các khoản bảo hiểm tự nguyện chưa cấp bách để giảm áp lực chi tiêu sinh hoạt cho gia đình.
 2. **Thiết lập chuyển khoản tự động 1.000.000 VND vào tài khoản Quỹ dự phòng riêng biệt ngay khi nhận thanh toán freelance** (sau khi trừ thuế 700.000 VND và nợ 1.000.000 VND) để từng bước nâng quỹ từ 500.000 VND lên mức an toàn 10.500.000 VND trong 10 tháng tới.
 3. **Tìm kiếm thêm dự án freelance ngắn hạn hoặc đăng ký thủ tục hoàn thuế/cam kết thu nhập cuối năm (mẫu 08/CK-TNCN)** nếu đủ điều kiện theo quy định thuế hiện hành nhằm tăng dòng tiền ròng thực nhận ít nhất 1.500.000 – 2.000.000 VND/tháng để sớm khởi động lại mục tiêu tiết kiệm 5.000.000 VND.
-```
+
